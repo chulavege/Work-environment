@@ -1,0 +1,7 @@
+Циклы - https://www.youtube.com/watch?v=HmrNdoTIu6A&list=PLyeqauxei6jfKHgefLiYxMQye331JZuqb&index=6
+    21 минута.
+
+Узнать еще о ветвлениях, констукторах, callback, замыкания в программировании.
+
+Flex-shink, сколько блок отдает свободного пространства.
+flex-grow, сколько забирает свободного пространства.

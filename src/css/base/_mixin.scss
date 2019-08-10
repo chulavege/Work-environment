@@ -1,0 +1,20 @@
+@mixin overpass {
+    font: {
+        family: Overpass;
+        weight: 600;
+    }
+}
+
+@mixin source700 {
+  font: {
+    family: SourceSansPro;
+    weight: 700;
+  }
+}
+
+@mixin source400 {
+  font: {
+    family: SourceSansPro;
+    weight: 400;
+  }
+}
